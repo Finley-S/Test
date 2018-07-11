@@ -1,5 +1,7 @@
 source build/envsetup.sh
-choosecombo  1
-sdm660_64  2
+choosecombo  
+1
+sdm660_64  
+2
 make -j4
 
